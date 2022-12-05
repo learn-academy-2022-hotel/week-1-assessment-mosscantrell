@@ -141,9 +141,9 @@ console.log(myNumbers.lastIndexOf(givenValue2))
 
 // Pseudo code:
 // write a code that takes in the numerical elements from a specified array and sorts the numbers from largest to smallest
-// apply the sort accessor to the provided array
-// using the sort accessor, set it to sort in numerical order and then to sort backwards from there
-// input: provided array sorted in backwards numerical order using the sort accessor
+// apply the sort mutator to the provided array
+// using the sort mutator, set it to sort in numerical order and then to sort backwards from there
+// input: provided array sorted in backwards numerical order using the sort mutator
 // output: the provided array sorted from greatest to least
 
 const sanDiegoSummerTemperatures = [79, 80, 72, 73, 82, 77, 76]
